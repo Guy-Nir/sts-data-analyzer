@@ -1,0 +1,122 @@
+[
+  {
+    "winrate": "6.40%",
+    "wins": 1433,
+    "losses": 20968,
+    "name": "Runic Dome"
+  },
+  {
+    "winrate": "7.00%",
+    "wins": 1546,
+    "losses": 20541,
+    "name": "SacredBark"
+  },
+  {
+    "winrate": "7.80%",
+    "wins": 1706,
+    "losses": 20179,
+    "name": "Ectoplasm"
+  },
+  {
+    "winrate": "8.48%",
+    "wins": 1771,
+    "losses": 19125,
+    "name": "Tiny House"
+  },
+  {
+    "winrate": "8.80%",
+    "wins": 2000,
+    "losses": 20736,
+    "name": "Sozu"
+  },
+  {
+    "winrate": "8.81%",
+    "wins": 1992,
+    "losses": 20618,
+    "name": "VioletLotus"
+  },
+  {
+    "winrate": "9.40%",
+    "wins": 1994,
+    "losses": 19211,
+    "name": "Empty Cage"
+  },
+  {
+    "winrate": "9.85%",
+    "wins": 2191,
+    "losses": 20050,
+    "name": "Cursed Key"
+  },
+  {
+    "winrate": "9.92%",
+    "wins": 2208,
+    "losses": 20058,
+    "name": "Velvet Choker"
+  },
+  {
+    "winrate": "10.55%",
+    "wins": 2352,
+    "losses": 19934,
+    "name": "Busted Crown"
+  },
+  {
+    "winrate": "12.17%",
+    "wins": 2703,
+    "losses": 19502,
+    "name": "SlaversCollar"
+  },
+  {
+    "winrate": "12.99%",
+    "wins": 2993,
+    "losses": 20045,
+    "name": "Philosopher's Stone"
+  },
+  {
+    "winrate": "13.27%",
+    "wins": 2958,
+    "losses": 19334,
+    "name": "Fusion Hammer"
+  },
+  {
+    "winrate": "13.47%",
+    "wins": 2991,
+    "losses": 19215,
+    "name": "Calling Bell"
+  },
+  {
+    "winrate": "16.01%",
+    "wins": 3714,
+    "losses": 19487,
+    "name": "Coffee Dripper"
+  },
+  {
+    "winrate": "18.49%",
+    "wins": 4352,
+    "losses": 19181,
+    "name": "Black Star"
+  },
+  {
+    "winrate": "20.18%",
+    "wins": 4668,
+    "losses": 18469,
+    "name": "Runic Pyramid"
+  },
+  {
+    "winrate": "20.19%",
+    "wins": 4616,
+    "losses": 18246,
+    "name": "Astrolabe"
+  },
+  {
+    "winrate": "25.29%",
+    "wins": 4944,
+    "losses": 14609,
+    "name": "Pandora's Box"
+  },
+  {
+    "winrate": "30.41%",
+    "wins": 7215,
+    "losses": 16510,
+    "name": "Snecko Eye"
+  }
+]

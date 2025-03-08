@@ -1,0 +1,158 @@
+[
+  {
+    "winrate": "4.28%",
+    "wins": 3685,
+    "losses": 82355,
+    "name": "Runic Cube"
+  },
+  {
+    "winrate": "4.72%",
+    "wins": 6612,
+    "losses": 133469,
+    "name": "HoveringKite"
+  },
+  {
+    "winrate": "5.24%",
+    "wins": 16899,
+    "losses": 305393,
+    "name": "Empty Cage"
+  },
+  {
+    "winrate": "5.80%",
+    "wins": 19279,
+    "losses": 313187,
+    "name": "Runic Dome"
+  },
+  {
+    "winrate": "5.90%",
+    "wins": 6244,
+    "losses": 99635,
+    "name": "SacredBark"
+  },
+  {
+    "winrate": "6.17%",
+    "wins": 20433,
+    "losses": 310593,
+    "name": "Ectoplasm"
+  },
+  {
+    "winrate": "6.47%",
+    "wins": 20775,
+    "losses": 300177,
+    "name": "Tiny House"
+  },
+  {
+    "winrate": "6.75%",
+    "wins": 22567,
+    "losses": 311711,
+    "name": "Busted Crown"
+  },
+  {
+    "winrate": "7.60%",
+    "wins": 25434,
+    "losses": 309058,
+    "name": "Cursed Key"
+  },
+  {
+    "winrate": "7.61%",
+    "wins": 25711,
+    "losses": 312071,
+    "name": "Sozu"
+  },
+  {
+    "winrate": "7.87%",
+    "wins": 26077,
+    "losses": 305354,
+    "name": "Calling Bell"
+  },
+  {
+    "winrate": "8.34%",
+    "wins": 7300,
+    "losses": 80218,
+    "name": "Mark of Pain"
+  },
+  {
+    "winrate": "8.72%",
+    "wins": 29394,
+    "losses": 307541,
+    "name": "Philosopher's Stone"
+  },
+  {
+    "winrate": "8.81%",
+    "wins": 1992,
+    "losses": 20618,
+    "name": "VioletLotus"
+  },
+  {
+    "winrate": "8.83%",
+    "wins": 7407,
+    "losses": 76504,
+    "name": "Inserter"
+  },
+  {
+    "winrate": "9.24%",
+    "wins": 30748,
+    "losses": 302179,
+    "name": "Velvet Choker"
+  },
+  {
+    "winrate": "9.56%",
+    "wins": 10169,
+    "losses": 96220,
+    "name": "SlaversCollar"
+  },
+  {
+    "winrate": "9.89%",
+    "wins": 33082,
+    "losses": 301259,
+    "name": "Fusion Hammer"
+  },
+  {
+    "winrate": "10.17%",
+    "wins": 34233,
+    "losses": 302316,
+    "name": "Coffee Dripper"
+  },
+  {
+    "winrate": "10.30%",
+    "wins": 8662,
+    "losses": 75472,
+    "name": "Nuclear Battery"
+  },
+  {
+    "winrate": "12.05%",
+    "wins": 40525,
+    "losses": 295696,
+    "name": "Runic Pyramid"
+  },
+  {
+    "winrate": "12.11%",
+    "wins": 41254,
+    "losses": 299468,
+    "name": "Black Star"
+  },
+  {
+    "winrate": "12.25%",
+    "wins": 17620,
+    "losses": 126260,
+    "name": "WristBlade"
+  },
+  {
+    "winrate": "14.20%",
+    "wins": 47437,
+    "losses": 286525,
+    "name": "Astrolabe"
+  },
+  {
+    "winrate": "16.56%",
+    "wins": 55701,
+    "losses": 280695,
+    "name": "Snecko Eye"
+  },
+  {
+    "winrate": "20.07%",
+    "wins": 53725,
+    "losses": 213924,
+    "name": "Pandora's Box"
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "winrate": "0.00%",
+    "wins": 0,
+    "losses": 1,
+    "name": "Mark of Pain"
+  },
+  {
+    "winrate": "0.00%",
+    "wins": 0,
+    "losses": 1,
+    "name": "Nuclear Battery"
+  },
+  {
+    "winrate": "4.72%",
+    "wins": 6612,
+    "losses": 133466,
+    "name": "HoveringKite"
+  },
+  {
+    "winrate": "5.30%",
+    "wins": 7293,
+    "losses": 130350,
+    "name": "Empty Cage"
+  },
+  {
+    "winrate": "5.39%",
+    "wins": 7563,
+    "losses": 132735,
+    "name": "Runic Dome"
+  },
+  {
+    "winrate": "6.27%",
+    "wins": 8832,
+    "losses": 132021,
+    "name": "Ectoplasm"
+  },
+  {
+    "winrate": "6.70%",
+    "wins": 2434,
+    "losses": 33878,
+    "name": "SacredBark"
+  },
+  {
+    "winrate": "6.71%",
+    "wins": 9488,
+    "losses": 131977,
+    "name": "Busted Crown"
+  },
+  {
+    "winrate": "6.80%",
+    "wins": 9377,
+    "losses": 128499,
+    "name": "Tiny House"
+  },
+  {
+    "winrate": "7.17%",
+    "wins": 10247,
+    "losses": 132698,
+    "name": "Sozu"
+  },
+  {
+    "winrate": "7.65%",
+    "wins": 10870,
+    "losses": 131186,
+    "name": "Cursed Key"
+  },
+  {
+    "winrate": "8.07%",
+    "wins": 11406,
+    "losses": 129994,
+    "name": "Calling Bell"
+  },
+  {
+    "winrate": "8.59%",
+    "wins": 12251,
+    "losses": 130436,
+    "name": "Philosopher's Stone"
+  },
+  {
+    "winrate": "8.70%",
+    "wins": 12292,
+    "losses": 128959,
+    "name": "Velvet Choker"
+  },
+  {
+    "winrate": "9.20%",
+    "wins": 3369,
+    "losses": 33259,
+    "name": "SlaversCollar"
+  },
+  {
+    "winrate": "9.52%",
+    "wins": 13506,
+    "losses": 128295,
+    "name": "Fusion Hammer"
+  },
+  {
+    "winrate": "9.78%",
+    "wins": 13974,
+    "losses": 128883,
+    "name": "Coffee Dripper"
+  },
+  {
+    "winrate": "10.54%",
+    "wins": 14875,
+    "losses": 126195,
+    "name": "Snecko Eye"
+  },
+  {
+    "winrate": "12.10%",
+    "wins": 17299,
+    "losses": 125650,
+    "name": "Runic Pyramid"
+  },
+  {
+    "winrate": "12.25%",
+    "wins": 17620,
+    "losses": 126260,
+    "name": "WristBlade"
+  },
+  {
+    "winrate": "12.56%",
+    "wins": 18107,
+    "losses": 126013,
+    "name": "Black Star"
+  },
+  {
+    "winrate": "14.22%",
+    "wins": 20242,
+    "losses": 122071,
+    "name": "Astrolabe"
+  },
+  {
+    "winrate": "20.51%",
+    "wins": 24144,
+    "losses": 93566,
+    "name": "Pandora's Box"
+  }
+]

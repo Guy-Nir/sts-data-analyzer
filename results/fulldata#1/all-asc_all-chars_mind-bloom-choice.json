@@ -1,0 +1,26 @@
+[
+  {
+    "pickRate": "5.10%",
+    "name": "heal",
+    "picked": 246771,
+    "notPicked": 4588285
+  },
+  {
+    "pickRate": "6.81%",
+    "name": "upgrade",
+    "picked": 329381,
+    "notPicked": 4505675
+  },
+  {
+    "pickRate": "8.14%",
+    "name": "gold",
+    "picked": 393687,
+    "notPicked": 4441369
+  },
+  {
+    "pickRate": "79.94%",
+    "name": "fight",
+    "picked": 3865217,
+    "notPicked": 969839
+  }
+]

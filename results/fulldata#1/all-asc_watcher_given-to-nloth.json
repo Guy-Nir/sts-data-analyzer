@@ -1,0 +1,914 @@
+[
+  {
+    "pickrate": "0.00%",
+    "given": 0,
+    "notGiven": 48937,
+    "name": "Nloth's Gift"
+  },
+  {
+    "pickrate": "0.00%",
+    "given": 0,
+    "notGiven": 509,
+    "name": "Mark of the Bloom"
+  },
+  {
+    "pickrate": "0.00%",
+    "given": 0,
+    "notGiven": 37,
+    "name": "Circlet"
+  },
+  {
+    "pickrate": "0.00%",
+    "given": 0,
+    "notGiven": 1,
+    "name": "Cracked Core"
+  },
+  {
+    "pickrate": "0.00%",
+    "given": 0,
+    "notGiven": 1,
+    "name": "Champion Belt"
+  },
+  {
+    "pickrate": "0.00%",
+    "given": 0,
+    "notGiven": 1,
+    "name": "Black Blood"
+  },
+  {
+    "pickrate": "0.51%",
+    "given": 40,
+    "notGiven": 7780,
+    "name": "HolyWater"
+  },
+  {
+    "pickrate": "1.06%",
+    "given": 47,
+    "notGiven": 4371,
+    "name": "TeardropLocket"
+  },
+  {
+    "pickrate": "1.14%",
+    "given": 47,
+    "notGiven": 4063,
+    "name": "FossilizedHelix"
+  },
+  {
+    "pickrate": "1.38%",
+    "given": 21,
+    "notGiven": 1499,
+    "name": "Medical Kit"
+  },
+  {
+    "pickrate": "1.42%",
+    "given": 57,
+    "notGiven": 3953,
+    "name": "Ice Cream"
+  },
+  {
+    "pickrate": "1.52%",
+    "given": 21,
+    "notGiven": 1358,
+    "name": "OrangePellets"
+  },
+  {
+    "pickrate": "1.66%",
+    "given": 94,
+    "notGiven": 5556,
+    "name": "Membership Card"
+  },
+  {
+    "pickrate": "1.68%",
+    "given": 84,
+    "notGiven": 4928,
+    "name": "Fusion Hammer"
+  },
+  {
+    "pickrate": "1.82%",
+    "given": 72,
+    "notGiven": 3886,
+    "name": "Incense Burner"
+  },
+  {
+    "pickrate": "2.01%",
+    "given": 145,
+    "notGiven": 7081,
+    "name": "SlaversCollar"
+  },
+  {
+    "pickrate": "2.06%",
+    "given": 117,
+    "notGiven": 5549,
+    "name": "Sozu"
+  },
+  {
+    "pickrate": "2.09%",
+    "given": 105,
+    "notGiven": 4930,
+    "name": "Philosopher's Stone"
+  },
+  {
+    "pickrate": "2.14%",
+    "given": 36,
+    "notGiven": 1650,
+    "name": "Enchiridion"
+  },
+  {
+    "pickrate": "2.23%",
+    "given": 63,
+    "notGiven": 2765,
+    "name": "ClockworkSouvenir"
+  },
+  {
+    "pickrate": "2.30%",
+    "given": 57,
+    "notGiven": 2416,
+    "name": "Sling"
+  },
+  {
+    "pickrate": "2.33%",
+    "given": 87,
+    "notGiven": 3644,
+    "name": "Torii"
+  },
+  {
+    "pickrate": "2.43%",
+    "given": 185,
+    "notGiven": 7433,
+    "name": "Shuriken"
+  },
+  {
+    "pickrate": "2.47%",
+    "given": 97,
+    "notGiven": 3838,
+    "name": "Thread and Needle"
+  },
+  {
+    "pickrate": "2.50%",
+    "given": 74,
+    "notGiven": 2891,
+    "name": "Coffee Dripper"
+  },
+  {
+    "pickrate": "2.51%",
+    "given": 36,
+    "notGiven": 1397,
+    "name": "Toolbox"
+  },
+  {
+    "pickrate": "2.52%",
+    "given": 153,
+    "notGiven": 5914,
+    "name": "Busted Crown"
+  },
+  {
+    "pickrate": "2.59%",
+    "given": 25,
+    "notGiven": 941,
+    "name": "Chemical X"
+  },
+  {
+    "pickrate": "2.63%",
+    "given": 255,
+    "notGiven": 9438,
+    "name": "PreservedInsect"
+  },
+  {
+    "pickrate": "2.69%",
+    "given": 186,
+    "notGiven": 6738,
+    "name": "Black Star"
+  },
+  {
+    "pickrate": "2.73%",
+    "given": 42,
+    "notGiven": 1497,
+    "name": "Strange Spoon"
+  },
+  {
+    "pickrate": "2.75%",
+    "given": 30,
+    "notGiven": 1061,
+    "name": "Bloody Idol"
+  },
+  {
+    "pickrate": "2.77%",
+    "given": 52,
+    "notGiven": 1824,
+    "name": "HandDrill"
+  },
+  {
+    "pickrate": "2.78%",
+    "given": 63,
+    "notGiven": 2202,
+    "name": "CloakClasp"
+  },
+  {
+    "pickrate": "2.80%",
+    "given": 46,
+    "notGiven": 1594,
+    "name": "Necronomicon"
+  },
+  {
+    "pickrate": "2.87%",
+    "given": 82,
+    "notGiven": 2777,
+    "name": "Turnip"
+  },
+  {
+    "pickrate": "2.90%",
+    "given": 103,
+    "notGiven": 3450,
+    "name": "Ginger"
+  },
+  {
+    "pickrate": "2.95%",
+    "given": 116,
+    "notGiven": 3815,
+    "name": "TungstenRod"
+  },
+  {
+    "pickrate": "2.96%",
+    "given": 109,
+    "notGiven": 3570,
+    "name": "StoneCalendar"
+  },
+  {
+    "pickrate": "3.03%",
+    "given": 166,
+    "notGiven": 5306,
+    "name": "Cursed Key"
+  },
+  {
+    "pickrate": "3.11%",
+    "given": 219,
+    "notGiven": 6831,
+    "name": "Pantograph"
+  },
+  {
+    "pickrate": "3.14%",
+    "given": 68,
+    "notGiven": 2101,
+    "name": "WarpedTongs"
+  },
+  {
+    "pickrate": "3.15%",
+    "given": 219,
+    "notGiven": 6744,
+    "name": "Toxic Egg 2"
+  },
+  {
+    "pickrate": "3.15%",
+    "given": 154,
+    "notGiven": 4740,
+    "name": "Yang"
+  },
+  {
+    "pickrate": "3.32%",
+    "given": 108,
+    "notGiven": 3149,
+    "name": "Shovel"
+  },
+  {
+    "pickrate": "3.33%",
+    "given": 275,
+    "notGiven": 7975,
+    "name": "Red Mask"
+  },
+  {
+    "pickrate": "3.41%",
+    "given": 74,
+    "notGiven": 2099,
+    "name": "Snecko Eye"
+  },
+  {
+    "pickrate": "3.41%",
+    "given": 246,
+    "notGiven": 6970,
+    "name": "VioletLotus"
+  },
+  {
+    "pickrate": "3.46%",
+    "given": 242,
+    "notGiven": 6747,
+    "name": "Mummified Hand"
+  },
+  {
+    "pickrate": "3.49%",
+    "given": 248,
+    "notGiven": 6857,
+    "name": "Gremlin Horn"
+  },
+  {
+    "pickrate": "3.52%",
+    "given": 339,
+    "notGiven": 9280,
+    "name": "Lantern"
+  },
+  {
+    "pickrate": "3.53%",
+    "given": 330,
+    "notGiven": 9011,
+    "name": "Anchor"
+  },
+  {
+    "pickrate": "3.57%",
+    "given": 320,
+    "notGiven": 8650,
+    "name": "Pen Nib"
+  },
+  {
+    "pickrate": "3.61%",
+    "given": 138,
+    "notGiven": 3687,
+    "name": "Bottled Tornado"
+  },
+  {
+    "pickrate": "3.62%",
+    "given": 262,
+    "notGiven": 6984,
+    "name": "HornCleat"
+  },
+  {
+    "pickrate": "3.63%",
+    "given": 250,
+    "notGiven": 6641,
+    "name": "Eternal Feather"
+  },
+  {
+    "pickrate": "3.65%",
+    "given": 158,
+    "notGiven": 4169,
+    "name": "Runic Pyramid"
+  },
+  {
+    "pickrate": "3.69%",
+    "given": 141,
+    "notGiven": 3683,
+    "name": "CaptainsWheel"
+  },
+  {
+    "pickrate": "3.70%",
+    "given": 48,
+    "notGiven": 1248,
+    "name": "TheAbacus"
+  },
+  {
+    "pickrate": "3.77%",
+    "given": 134,
+    "notGiven": 3422,
+    "name": "Gambling Chip"
+  },
+  {
+    "pickrate": "3.80%",
+    "given": 268,
+    "notGiven": 6788,
+    "name": "Molten Egg 2"
+  },
+  {
+    "pickrate": "3.81%",
+    "given": 366,
+    "notGiven": 9239,
+    "name": "Damaru"
+  },
+  {
+    "pickrate": "3.91%",
+    "given": 27,
+    "notGiven": 664,
+    "name": "Frozen Eye"
+  },
+  {
+    "pickrate": "3.91%",
+    "given": 42,
+    "notGiven": 1031,
+    "name": "PrismaticShard"
+  },
+  {
+    "pickrate": "3.92%",
+    "given": 270,
+    "notGiven": 6614,
+    "name": "Meat on the Bone"
+  },
+  {
+    "pickrate": "3.93%",
+    "given": 401,
+    "notGiven": 9797,
+    "name": "Vajra"
+  },
+  {
+    "pickrate": "3.94%",
+    "given": 161,
+    "notGiven": 3929,
+    "name": "Lizard Tail"
+  },
+  {
+    "pickrate": "3.98%",
+    "given": 131,
+    "notGiven": 3160,
+    "name": "Girya"
+  },
+  {
+    "pickrate": "3.99%",
+    "given": 371,
+    "notGiven": 8938,
+    "name": "Happy Flower"
+  },
+  {
+    "pickrate": "4.00%",
+    "given": 284,
+    "notGiven": 6817,
+    "name": "Kunai"
+  },
+  {
+    "pickrate": "4.05%",
+    "given": 375,
+    "notGiven": 8888,
+    "name": "Bag of Preparation"
+  },
+  {
+    "pickrate": "4.10%",
+    "given": 108,
+    "notGiven": 2529,
+    "name": "Dead Branch"
+  },
+  {
+    "pickrate": "4.15%",
+    "given": 64,
+    "notGiven": 1477,
+    "name": "Nilry's Codex"
+  },
+  {
+    "pickrate": "4.35%",
+    "given": 81,
+    "notGiven": 1782,
+    "name": "Velvet Choker"
+  },
+  {
+    "pickrate": "4.56%",
+    "given": 283,
+    "notGiven": 5918,
+    "name": "Akabeko"
+  },
+  {
+    "pickrate": "4.59%",
+    "given": 15,
+    "notGiven": 312,
+    "name": "Cauldron"
+  },
+  {
+    "pickrate": "4.72%",
+    "given": 86,
+    "notGiven": 1736,
+    "name": "Ectoplasm"
+  },
+  {
+    "pickrate": "4.73%",
+    "given": 247,
+    "notGiven": 4974,
+    "name": "Singing Bowl"
+  },
+  {
+    "pickrate": "4.78%",
+    "given": 404,
+    "notGiven": 8047,
+    "name": "Regal Pillow"
+  },
+  {
+    "pickrate": "4.79%",
+    "given": 343,
+    "notGiven": 6825,
+    "name": "Mercury Hourglass"
+  },
+  {
+    "pickrate": "4.80%",
+    "given": 441,
+    "notGiven": 8754,
+    "name": "Bronze Scales"
+  },
+  {
+    "pickrate": "4.83%",
+    "given": 288,
+    "notGiven": 5674,
+    "name": "Matryoshka"
+  },
+  {
+    "pickrate": "4.94%",
+    "given": 2401,
+    "notGiven": 46234,
+    "name": "PureWater"
+  },
+  {
+    "pickrate": "4.97%",
+    "given": 328,
+    "notGiven": 6268,
+    "name": "Frozen Egg 2"
+  },
+  {
+    "pickrate": "4.99%",
+    "given": 51,
+    "notGiven": 972,
+    "name": "Runic Dome"
+  },
+  {
+    "pickrate": "5.15%",
+    "given": 486,
+    "notGiven": 8954,
+    "name": "Oddly Smooth Stone"
+  },
+  {
+    "pickrate": "5.15%",
+    "given": 170,
+    "notGiven": 3130,
+    "name": "Prayer Wheel"
+  },
+  {
+    "pickrate": "5.32%",
+    "given": 255,
+    "notGiven": 4540,
+    "name": "The Courier"
+  },
+  {
+    "pickrate": "5.37%",
+    "given": 481,
+    "notGiven": 8476,
+    "name": "Bag of Marbles"
+  },
+  {
+    "pickrate": "5.39%",
+    "given": 307,
+    "notGiven": 5393,
+    "name": "Tiny Chest"
+  },
+  {
+    "pickrate": "5.45%",
+    "given": 286,
+    "notGiven": 4959,
+    "name": "Bottled Lightning"
+  },
+  {
+    "pickrate": "5.47%",
+    "given": 58,
+    "notGiven": 1003,
+    "name": "Melange"
+  },
+  {
+    "pickrate": "5.52%",
+    "given": 40,
+    "notGiven": 684,
+    "name": "FaceOfCleric"
+  },
+  {
+    "pickrate": "5.61%",
+    "given": 369,
+    "notGiven": 6203,
+    "name": "Letter Opener"
+  },
+  {
+    "pickrate": "5.69%",
+    "given": 464,
+    "notGiven": 7696,
+    "name": "MealTicket"
+  },
+  {
+    "pickrate": "5.69%",
+    "given": 490,
+    "notGiven": 8116,
+    "name": "Blood Vial"
+  },
+  {
+    "pickrate": "5.77%",
+    "given": 202,
+    "notGiven": 3297,
+    "name": "Bird Faced Urn"
+  },
+  {
+    "pickrate": "5.77%",
+    "given": 489,
+    "notGiven": 7981,
+    "name": "Nunchaku"
+  },
+  {
+    "pickrate": "5.81%",
+    "given": 397,
+    "notGiven": 6432,
+    "name": "Ornamental Fan"
+  },
+  {
+    "pickrate": "5.88%",
+    "given": 214,
+    "notGiven": 3423,
+    "name": "Calipers"
+  },
+  {
+    "pickrate": "5.91%",
+    "given": 469,
+    "notGiven": 7460,
+    "name": "Ancient Tea Set"
+  },
+  {
+    "pickrate": "6.01%",
+    "given": 384,
+    "notGiven": 6008,
+    "name": "Sundial"
+  },
+  {
+    "pickrate": "6.07%",
+    "given": 593,
+    "notGiven": 9183,
+    "name": "Juzu Bracelet"
+  },
+  {
+    "pickrate": "6.23%",
+    "given": 194,
+    "notGiven": 2922,
+    "name": "Peace Pipe"
+  },
+  {
+    "pickrate": "6.25%",
+    "given": 48,
+    "notGiven": 720,
+    "name": "SsserpentHead"
+  },
+  {
+    "pickrate": "6.28%",
+    "given": 498,
+    "notGiven": 7436,
+    "name": "Omamori"
+  },
+  {
+    "pickrate": "6.42%",
+    "given": 336,
+    "notGiven": 4901,
+    "name": "Bottled Flame"
+  },
+  {
+    "pickrate": "6.61%",
+    "given": 557,
+    "notGiven": 7874,
+    "name": "Orichalcum"
+  },
+  {
+    "pickrate": "6.62%",
+    "given": 423,
+    "notGiven": 5964,
+    "name": "White Beast Statue"
+  },
+  {
+    "pickrate": "6.68%",
+    "given": 246,
+    "notGiven": 3434,
+    "name": "SacredBark"
+  },
+  {
+    "pickrate": "6.80%",
+    "given": 251,
+    "notGiven": 3440,
+    "name": "MutagenicStrength"
+  },
+  {
+    "pickrate": "6.91%",
+    "given": 237,
+    "notGiven": 3191,
+    "name": "Unceasing Top"
+  },
+  {
+    "pickrate": "6.99%",
+    "given": 245,
+    "notGiven": 3258,
+    "name": "Pocketwatch"
+  },
+  {
+    "pickrate": "7.01%",
+    "given": 578,
+    "notGiven": 7673,
+    "name": "Toy Ornithopter"
+  },
+  {
+    "pickrate": "7.15%",
+    "given": 228,
+    "notGiven": 2961,
+    "name": "Du-Vu Doll"
+  },
+  {
+    "pickrate": "7.25%",
+    "given": 284,
+    "notGiven": 3634,
+    "name": "StrikeDummy"
+  },
+  {
+    "pickrate": "7.48%",
+    "given": 607,
+    "notGiven": 7508,
+    "name": "Centennial Puzzle"
+  },
+  {
+    "pickrate": "7.57%",
+    "given": 250,
+    "notGiven": 3054,
+    "name": "GoldenEye"
+  },
+  {
+    "pickrate": "7.71%",
+    "given": 475,
+    "notGiven": 5686,
+    "name": "InkBottle"
+  },
+  {
+    "pickrate": "7.74%",
+    "given": 601,
+    "notGiven": 7167,
+    "name": "Potion Belt"
+  },
+  {
+    "pickrate": "7.78%",
+    "given": 469,
+    "notGiven": 5562,
+    "name": "Question Card"
+  },
+  {
+    "pickrate": "7.87%",
+    "given": 502,
+    "notGiven": 5874,
+    "name": "Smiling Mask"
+  },
+  {
+    "pickrate": "8.01%",
+    "given": 534,
+    "notGiven": 6129,
+    "name": "Art of War"
+  },
+  {
+    "pickrate": "8.63%",
+    "given": 649,
+    "notGiven": 6874,
+    "name": "Boot"
+  },
+  {
+    "pickrate": "8.70%",
+    "given": 331,
+    "notGiven": 3474,
+    "name": "Mango"
+  },
+  {
+    "pickrate": "8.72%",
+    "given": 215,
+    "notGiven": 2250,
+    "name": "DollysMirror"
+  },
+  {
+    "pickrate": "9.09%",
+    "given": 412,
+    "notGiven": 4122,
+    "name": "Blue Candle"
+  },
+  {
+    "pickrate": "9.12%",
+    "given": 322,
+    "notGiven": 3208,
+    "name": "Lee's Waffle"
+  },
+  {
+    "pickrate": "9.20%",
+    "given": 688,
+    "notGiven": 6791,
+    "name": "Dream Catcher"
+  },
+  {
+    "pickrate": "9.39%",
+    "given": 276,
+    "notGiven": 2663,
+    "name": "WingedGreaves"
+  },
+  {
+    "pickrate": "10.16%",
+    "given": 209,
+    "notGiven": 1849,
+    "name": "Orrery"
+  },
+  {
+    "pickrate": "10.47%",
+    "given": 584,
+    "notGiven": 4996,
+    "name": "Darkstone Periapt"
+  },
+  {
+    "pickrate": "10.61%",
+    "given": 720,
+    "notGiven": 6066,
+    "name": "MawBank"
+  },
+  {
+    "pickrate": "10.62%",
+    "given": 434,
+    "notGiven": 3652,
+    "name": "Odd Mushroom"
+  },
+  {
+    "pickrate": "10.62%",
+    "given": 533,
+    "notGiven": 4484,
+    "name": "CeramicFish"
+  },
+  {
+    "pickrate": "10.65%",
+    "given": 913,
+    "notGiven": 7660,
+    "name": "Strawberry"
+  },
+  {
+    "pickrate": "10.70%",
+    "given": 749,
+    "notGiven": 6254,
+    "name": "Pear"
+  },
+  {
+    "pickrate": "11.38%",
+    "given": 362,
+    "notGiven": 2819,
+    "name": "Old Coin"
+  },
+  {
+    "pickrate": "11.94%",
+    "given": 1007,
+    "notGiven": 7427,
+    "name": "Whetstone"
+  },
+  {
+    "pickrate": "12.57%",
+    "given": 956,
+    "notGiven": 6651,
+    "name": "Calling Bell"
+  },
+  {
+    "pickrate": "12.68%",
+    "given": 1261,
+    "notGiven": 8680,
+    "name": "Golden Idol"
+  },
+  {
+    "pickrate": "12.92%",
+    "given": 1202,
+    "notGiven": 8103,
+    "name": "War Paint"
+  },
+  {
+    "pickrate": "13.93%",
+    "given": 62,
+    "notGiven": 383,
+    "name": "Spirit Poop"
+  },
+  {
+    "pickrate": "18.57%",
+    "given": 967,
+    "notGiven": 4240,
+    "name": "Empty Cage"
+  },
+  {
+    "pickrate": "18.99%",
+    "given": 861,
+    "notGiven": 3674,
+    "name": "Tiny House"
+  },
+  {
+    "pickrate": "19.10%",
+    "given": 1107,
+    "notGiven": 4688,
+    "name": "Astrolabe"
+  },
+  {
+    "pickrate": "19.89%",
+    "given": 816,
+    "notGiven": 3286,
+    "name": "Pandora's Box"
+  },
+  {
+    "pickrate": "19.97%",
+    "given": 129,
+    "notGiven": 517,
+    "name": "CultistMask"
+  },
+  {
+    "pickrate": "21.68%",
+    "given": 80,
+    "notGiven": 289,
+    "name": "GremlinMask"
+  },
+  {
+    "pickrate": "22.57%",
+    "given": 107,
+    "notGiven": 367,
+    "name": "NlothsMask"
+  },
+  {
+    "pickrate": "24.19%",
+    "given": 4545,
+    "notGiven": 14244,
+    "name": "NeowsBlessing"
+  },
+  {
+    "pickrate": "100.00%",
+    "given": 1,
+    "notGiven": 0,
+    "name": "Blue Doll"
+  }
+]

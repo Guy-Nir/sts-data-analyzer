@@ -1,0 +1,20 @@
+[
+  {
+    "pickRate": "20.75%",
+    "name": "change",
+    "picked": 1079275,
+    "notPicked": 4122555
+  },
+  {
+    "pickRate": "26.22%",
+    "name": "forget",
+    "picked": 1363776,
+    "notPicked": 3838054
+  },
+  {
+    "pickRate": "53.03%",
+    "name": "grow",
+    "picked": 2758779,
+    "notPicked": 2443051
+  }
+]
