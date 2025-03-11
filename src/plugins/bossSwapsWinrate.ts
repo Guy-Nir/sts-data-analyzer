@@ -4,7 +4,7 @@ import { sortObject } from '../utils';
 
 const BOSS_RELICS = ["SacredBark", "Pandora's Box", "Fusion Hammer", "Coffee Dripper", "Astrolabe", "SlaversCollar", "VioletLotus", "WristBlade", "Velvet Choker", "Runic Dome", "Snecko Eye", "Ectoplasm", "Runic Pyramid", "Sozu", "Cursed Key", "Calling Bell", "Busted Crown", "Empty Cage", "Tiny House", "Inserter", "Philosopher's Stone", "Black Star", "Mark of Pain", "Nuclear Battery", "HoveringKite", "Runic Cube"];
 
-type RelicStats = { wins: number, losses: number, name: string };
+type RelicStats = { wins: number, losses: number };
 
 export class BossSwapsWinratesPlugin implements DataPlugin {
     name = 'boss-swap-winrate'
@@ -26,7 +26,7 @@ export class BossSwapsWinratesPlugin implements DataPlugin {
         }
 
         if (!this.relicsStats[relic]) {
-            this.relicsStats[relic] = { wins: 0, losses: 0, name: relic };
+            this.relicsStats[relic] = { wins: 0, losses: 0 };
         }
 
         if (run.event.victory) {
@@ -45,7 +45,7 @@ export class BossSwapsWinratesPlugin implements DataPlugin {
         return relicStats.wins / (relicStats.wins + relicStats.losses);
     }
 
-    private formatRelicStats = (relicStats: RelicStats) => {
-        return { winrate: (this.getWinrate(relicStats) * 100).toFixed(2) + '%', ...relicStats };
+    private formatRelicStats = (name: string, relicStats: RelicStats) => {
+        return { winrate: (this.getWinrate(relicStats) * 100).toFixed(2) + '%', name, ...relicStats };
     }
 }

@@ -12,16 +12,16 @@ export const unzipRun = async (fileName: string) => {
     })
 }
 
-export const sortObject = <RawData>(obj: Record<string, RawData>, quantifier: (data: RawData) => number, formatter: (data: RawData) => object) => {
+export const sortObject = <RawData, FormattedData>(obj: Record<string, RawData>, quantifier: (data: RawData) => number, formatter: (key: string, data: RawData) => FormattedData): FormattedData[] => {
     const arr = [];
 
     for (let key in obj) {
-        const dataPoint = obj[key];
+        const data = obj[key];
 
-        arr.push(dataPoint);
+        arr.push({ key, data: data });
     }
 
-    arr.sort((a, b) => quantifier(a) - quantifier(b));
+    arr.sort(({ data: a }, { data: b }) => quantifier(a) - quantifier(b));
 
-    return arr.map(formatter);
+    return arr.map(({ key, data }) => formatter(key, data));
 }

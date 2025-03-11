@@ -2,7 +2,7 @@ import { Run } from '..';
 import { DataPlugin, PluginConfig } from '../plugins'
 import { sortObject } from '../utils';
 
-type RelicStats = { given: number, notGiven: number, name: string };
+type RelicStats = { given: number, notGiven: number };
 
 export class GivenToNlothPlugin implements DataPlugin {
     name = 'given-to-nloth'
@@ -23,7 +23,7 @@ export class GivenToNlothPlugin implements DataPlugin {
 
         for (let relic of run.event.relics) {
             if (!this.relicsStats[relic]) {
-                this.relicsStats[relic] = { given: 0, notGiven: 0, name: relic };
+                this.relicsStats[relic] = { given: 0, notGiven: 0 };
             }
 
             if (relic != maybeRelicGiven) {
@@ -34,7 +34,7 @@ export class GivenToNlothPlugin implements DataPlugin {
         if (maybeRelicGiven) {
 
             if (!this.relicsStats[maybeRelicGiven]) {
-                this.relicsStats[maybeRelicGiven] = { given: 0, notGiven: 0, name: maybeRelicGiven };
+                this.relicsStats[maybeRelicGiven] = { given: 0, notGiven: 0 };
             }
 
             this.relicsStats[maybeRelicGiven].given++;
@@ -50,7 +50,7 @@ export class GivenToNlothPlugin implements DataPlugin {
         return relicStats.given / (relicStats.given + relicStats.notGiven);
     }
 
-    private formatRelicStats = (relicStats: RelicStats) => {
-        return { pickrate: (this.getPickrate(relicStats) * 100).toFixed(2) + '%', ...relicStats };
+    private formatRelicStats = (name: string, relicStats: RelicStats) => {
+        return { pickrate: (this.getPickrate(relicStats) * 100).toFixed(2) + '%', name, ...relicStats };
     }
 }

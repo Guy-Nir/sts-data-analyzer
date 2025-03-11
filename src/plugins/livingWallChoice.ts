@@ -2,15 +2,15 @@ import { Run } from '..';
 import { DataPlugin, PluginConfig } from '../plugins'
 import { sortObject } from '../utils';
 
-type ChoiceStats = { picked: number, notPicked: number, name: string };
+type ChoiceStats = { picked: number, notPicked: number };
 
 export class LivingWallChoicePlugin implements DataPlugin {
     name = 'living-wall-choice';
 
     private choiceStats: Record<string, ChoiceStats> = {
-        Change: { name: 'change', picked: 0, notPicked: 0 },
-        Forget: { name: 'forget', picked: 0, notPicked: 0 },
-        Grow: {name: 'grow', picked: 0, notPicked: 0 },
+        Change: { picked: 0, notPicked: 0 },
+        Forget: { picked: 0, notPicked: 0 },
+        Grow: { picked: 0, notPicked: 0 },
     };
 
     constructor(public config: PluginConfig) { }
@@ -39,7 +39,7 @@ export class LivingWallChoicePlugin implements DataPlugin {
         return choiceStats.picked / (choiceStats.picked + choiceStats.notPicked);
     }
 
-    private formatChoiceStats = (choiceStats: ChoiceStats) => {
-        return { pickRate: (this.getPickRate(choiceStats) * 100).toFixed(2) + '%', ...choiceStats };
+    private formatChoiceStats = (name: string, choiceStats: ChoiceStats) => {
+        return { pickRate: (this.getPickRate(choiceStats) * 100).toFixed(2) + '%', name, ...choiceStats };
     }
 }

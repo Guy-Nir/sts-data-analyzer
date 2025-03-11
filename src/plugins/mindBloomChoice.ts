@@ -2,16 +2,16 @@ import { Run } from '..';
 import { DataPlugin, PluginConfig } from '../plugins'
 import { sortObject } from '../utils';
 
-type ChoiceStats = { picked: number, notPicked: number, name: string };
+type ChoiceStats = { picked: number, notPicked: number };
 
 export class MindBloomChoicePlugin implements DataPlugin {
     name = 'mind-bloom-choice';
 
     private choiceStats: Record<string, ChoiceStats> = {
-        Fight: { name: 'fight', picked: 0, notPicked: 0 },
-        Upgrade: { name: 'upgrade', picked: 0, notPicked: 0 },
-        Gold: {name: 'gold', picked: 0, notPicked: 0 },
-        Heal: {name: 'heal', picked: 0, notPicked: 0 }
+        Fight: { picked: 0, notPicked: 0 },
+        Upgrade: { picked: 0, notPicked: 0 },
+        Gold: { picked: 0, notPicked: 0 },
+        Heal: { picked: 0, notPicked: 0 }
     };
 
     constructor(public config: PluginConfig) { }
@@ -40,7 +40,7 @@ export class MindBloomChoicePlugin implements DataPlugin {
         return choiceStats.picked / (choiceStats.picked + choiceStats.notPicked);
     }
 
-    private formatChoiceStats = (choiceStats: ChoiceStats) => {
-        return { pickRate: (this.getPickRate(choiceStats) * 100).toFixed(2) + '%', ...choiceStats };
+    private formatChoiceStats = (name: string, choiceStats: ChoiceStats) => {
+        return { pickRate: (this.getPickRate(choiceStats) * 100).toFixed(2) + '%', name, ...choiceStats };
     }
 }

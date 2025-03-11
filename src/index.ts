@@ -6,8 +6,10 @@ import { RunCounterPlugin } from './plugins/runCounter';
 import { MindBloomChoicePlugin } from './plugins/mindBloomChoice';
 import { LivingWallChoicePlugin } from './plugins/livingWallChoice';
 import { GivenToNlothPlugin } from './plugins/givenToNloth';
+import { CardsEloPlugin } from './plugins/cardsElo';
 
 export const dataFilesDir = '/games/slaythedata/STS_Data';
+//export const dataFilesDir = 'example-files';
 
 export interface Run {
     event: {
@@ -17,8 +19,10 @@ export interface Run {
         neow_bonus: string;
         relics: string[];
         victory: boolean;
+        card_choices: { not_picked: string[], picked: string, floor: number }[];
         relics_obtained: { floor: number, key: string }[];
-        event_choices: { event_name: string, player_choice: string, relics_lost?: string[] }[];
+        items_purchased: string[];
+        event_choices: { event_name: string, player_choice: string, relics_lost?: string[], floor: number }[];
     }
 }
 
@@ -75,10 +79,12 @@ const savePluginsData = () => {
 
 const plugins = [
     new RunCounterPlugin(defaultPluginConfig),
-    ...createPluginsByCharacter(BossSwapsWinratesPlugin, { ascension: 'ALL-ASC' }),
-    ...createPluginsByCharacter(MindBloomChoicePlugin, { ascension: 'ALL-ASC' }),
-    ...createPluginsByCharacter(LivingWallChoicePlugin, { ascension: 'ALL-ASC' }),
-    ...createPluginsByCharacter(GivenToNlothPlugin, { ascension: 'ALL-ASC' })
+    ...createPluginsByCharacter(CardsEloPlugin, { ascension: 'ALL-ASC' }),
+    ...createPluginsByCharacter(CardsEloPlugin, { ascension: 'A20' })
+    //...createPluginsByCharacter(BossSwapsWinratesPlugin, { ascension: 'ALL-ASC' }),
+    //...createPluginsByCharacter(MindBloomChoicePlugin, { ascension: 'ALL-ASC' }),
+    //...createPluginsByCharacter(LivingWallChoicePlugin, { ascension: 'ALL-ASC' }),
+    //...createPluginsByCharacter(GivenToNlothPlugin, { ascension: 'ALL-ASC' })
 ];
 
 const main = async () => {
